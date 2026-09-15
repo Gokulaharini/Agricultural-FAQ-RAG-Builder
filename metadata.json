@@ -1,0 +1,8 @@
+{
+  "name": "AgriKnowledge",
+  "description": "Upload agricultural documents and ask questions. Get instant answers grounded in your uploaded manuals and guides with page references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
